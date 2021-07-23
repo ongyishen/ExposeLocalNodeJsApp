@@ -60,6 +60,4 @@ http://localhost:4040/
 
 #### Screenshot:
 
-```
 <img src="https://github.com/ongyishen/ExposeLocalNodeJsApp/blob/main/Sample.gif?raw=true" width="400" height="400" />
-```
